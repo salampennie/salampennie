@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salampennie
 - 👀 I’m interested in coding/programing
 - 🌱 I’m currently learning General Science in School
-- 💞️ I’m looking to collaborate on Microsoft 
+- 💞️ I’m looking to collaborate on Microsoft Corporation 
 - 📫 How to reach me @ my gmail; salampennie3@gmail.com
 - 😄 Pronouns: Programmer
 - ⚡ Fun fact: HTML's original purpose was to format Physics papers
